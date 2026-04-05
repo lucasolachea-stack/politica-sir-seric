@@ -23,15 +23,3 @@ Como o  não coleta absolutamente nenhum dado pessoal, ele está em conformidade
 
 5. Alterações nesta Política
 Podemos atualizar esta política de tempos em tempos. Qualquer alteração será publicada nesta página.
-
-6. Contato
-Se você tiver qualquer dúvida sobre esta política de privacidade, entre em contato através do e-mail:
-
-E-mail: [Insira Seu E-mail Aqui]
-
-Próximos Passos para Publicar:
-Hospede o texto: Copie o texto acima e cole em um site. Se não tiver um, use o Google Sites ou o GitHub Pages.
-
-Play Console: Vá até a aba "Conteúdo do app" -> "Política de Privacidade" e cole o link da página que você criou.
-
-Segurança de Dados: No formulário de "Segurança de Dados" do console, marque "Não" para a pergunta se o app coleta ou compartilha dados de usuários. Isso fará com que apareça a mensagem "Nenhum dado coletado" na sua página da loja.
