@@ -1,0 +1,37 @@
+Política de Privacidade - Sir Deric
+Última atualização: 4 de abril de 2026
+
+A sua privacidade é uma prioridade para nós. Esta Política de Privacidade explica como lidamos com as informações no jogo Sir Deric.
+
+1. Coleta e Uso de Dados
+O Sir Deric foi desenvolvido para ser um jogo de experiência puramente local.
+
+Dados Pessoais: Não coletamos, não solicitamos e não armazenamos informações pessoais (como nome, endereço de e-mail, idade ou número de telefone).
+
+Dados do Dispositivo: Não acessamos contatos, fotos, microfone, câmera ou a localização do seu dispositivo.
+
+2. Serviços de Terceiros e Anúncios
+Este aplicativo não utiliza serviços de terceiros (como redes de anúncios, ferramentas de análise de dados ou SDKs de rastreamento) que coletem informações dos usuários.
+
+3. Armazenamento de Progresso
+Todo o progresso do jogo, como pontuações ou configurações, é salvo exclusivamente de forma local no seu dispositivo. Nós não temos acesso a esses dados e eles não são enviados para nenhum servidor externo.
+
+Nota: Ao desinstalar o jogo, esses dados locais serão removidos pelo sistema operacional Android.
+
+4. Privacidade de Crianças
+Como o Sir Deric não coleta absolutamente nenhum dado pessoal, ele está em conformidade com as normas de proteção à privacidade infantil (como a COPPA).
+
+5. Alterações nesta Política
+Podemos atualizar esta política de tempos em tempos. Qualquer alteração será publicada nesta página.
+
+6. Contato
+Se você tiver qualquer dúvida sobre esta política de privacidade, entre em contato através do e-mail:
+
+E-mail: [Insira Seu E-mail Aqui]
+
+Próximos Passos para Publicar:
+Hospede o texto: Copie o texto acima e cole em um site. Se não tiver um, use o Google Sites ou o GitHub Pages.
+
+Play Console: Vá até a aba "Conteúdo do app" -> "Política de Privacidade" e cole o link da página que você criou.
+
+Segurança de Dados: No formulário de "Segurança de Dados" do console, marque "Não" para a pergunta se o app coleta ou compartilha dados de usuários. Isso fará com que apareça a mensagem "Nenhum dado coletado" na sua página da loja.
